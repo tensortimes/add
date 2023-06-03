@@ -1,1 +1,2 @@
 import gc
+gc.colect()
